@@ -1,6 +1,6 @@
 # Privacy Policy for DailyBits
 
-**Last Updated:** May 2024
+**Last Updated:** 2026-01-01
 
 Welcome to DailyBits. We are committed to protecting your privacy. This Privacy Policy explains our "Local-First" approach to data security.
 
